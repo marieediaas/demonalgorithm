@@ -23,5 +23,3 @@ sistema diminua a energia total, o excesso de energia é dado para o demônio.
 Entretanto, se a mudança aumenta a energia total do sistema, essa quantidade de
 energia a mais tem que ser dada pelo demônio, caso este a tenha. Além disso, o
 demônio não pode ter energia negativa.
-
-Este algoritmo foi feito na linguagem Python.
